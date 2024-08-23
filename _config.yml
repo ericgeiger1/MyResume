@@ -54,7 +54,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Dedicated IT professional with a solid understanding of Linux, Comp-Tia Fundamentals, and various technical environments. Seeking an entry-level position that utilizes my skills in Docker, VS Code, and Microsoft Azure to drive innovation and provide exceptional technical support as a helpdesk representative or similar role.
 
-    - ![alt text](/images/front.jpg "Trees")
+    - ![alt text](images/front.jpg)
 
 content:
   - title: Experience
@@ -88,7 +88,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - ![Alt text](/images/ResumeLast2.jpg)
+      - ![Alt text](images/ResumeLast2.jpg)
       
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
