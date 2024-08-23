@@ -1,5 +1,5 @@
 # Site
-repository: https://github.com/ericgeiger1/modern-resume-theme.git
+repository: https://github.com/ericgeiger1/MyResume.git
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -88,7 +88,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - ![Resume](/images/ResumeLast2.jpg)
+      - ![Alt text](/images/ResumeLast2.jpg)
       
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
